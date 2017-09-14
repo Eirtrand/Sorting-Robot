@@ -5,8 +5,7 @@
 
 ## Key Features
 
-* Easy way of testing camera matrix parameters and distortion coefissients. 
-* Full screen mode
+* Takes images and stuff
 * Cross platform
   - Windows, Mac and Linux ready.
 
