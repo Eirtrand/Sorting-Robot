@@ -1,0 +1,3 @@
+/home/eirik/Sorting_robot/build/CMakeFiles/edit_cache.dir
+/home/eirik/Sorting_robot/build/CMakeFiles/rebuild_cache.dir
+/home/eirik/Sorting_robot/build/CMakeFiles/run.dir
